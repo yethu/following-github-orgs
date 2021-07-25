@@ -7,3 +7,6 @@ Organizations I intend to follow since github has no feature to follow organizat
 
 ## Misc
 [https://github.com/Imgur](https://github.com/Imgur)
+
+## Languages
+[https://github.com/scala](https://github.com/scala)
