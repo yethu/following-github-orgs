@@ -10,3 +10,4 @@ Organizations I intend to follow since github has no feature to follow organizat
 
 ## Languages
 [https://github.com/scala](https://github.com/scala)
+[https://github.com/haskell-foundation](https://github.com/haskell-foundation)
