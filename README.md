@@ -9,5 +9,5 @@ Organizations I intend to follow since github has no feature to follow organizat
 [https://github.com/Imgur](https://github.com/Imgur)
 
 ## Languages
-[https://github.com/scala](https://github.com/scala)
+[https://github.com/scala](https://github.com/scala)  
 [https://github.com/haskell-foundation](https://github.com/haskell-foundation)
