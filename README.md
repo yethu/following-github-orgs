@@ -1,3 +1,6 @@
+# Archive Note
+GitHub has added functionality to follow organizations. This list is no longer required. ^_^
+
 # following-github-orgs
 Organizations I intend to follow since github has no feature to follow organizations
 
